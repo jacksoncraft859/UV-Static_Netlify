@@ -1,12 +1,13 @@
 #div-1 { overflow: hidden; }
 div {
   overflow-y: hidden;  
-
+  overflow-x: hidden;
+  
   /* other styling */
   border: solid 5px black;
   border-radius: 5px;
-  height: 300px;
-  width: 300px;
+  height: 100%;
+  width: 100%;
 }
 #div-2 { overflow: hidden; }
 /* Custom CSS for black theme */

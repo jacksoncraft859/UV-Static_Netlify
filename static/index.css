@@ -43,6 +43,7 @@ body {
 #imgsearch img {
   width: 20%;
   height: auto;
+  align-self: center;
 }
 
 #searchbar {

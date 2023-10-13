@@ -1,13 +1,3 @@
-div {
-  overflow-y: hidden;  
-  overflow-x: hidden;
-  
-  /* other styling */
-  border: solid 5px black;
-  border-radius: 5px;
-  height: 100%;
-  width: 100%;
-}
 /* Custom CSS for black theme */
 body {
   background-color: #000;

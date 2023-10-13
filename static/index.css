@@ -125,3 +125,7 @@ a{
 .fa:hover {
   color: #aaa;
 }
+canvas { 
+  display: block; 
+  vertical-align: bottom; 
+}

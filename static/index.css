@@ -52,6 +52,7 @@ body {
 
 .form {
   position: absolute;
+  align-self: center;
 }
 
 .form__input {

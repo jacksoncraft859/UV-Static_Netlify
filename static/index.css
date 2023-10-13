@@ -23,7 +23,7 @@ body {
 #imgsearch {
   display: flex;
   position: absolute;
-  align-items: normal;
+  align-items: center;
   top: 0;
   bottom: 0;
   left: 0;

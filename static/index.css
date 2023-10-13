@@ -21,7 +21,11 @@ body {
   margin-top: -4%;
 } 
 
-#particles-js h1 {
+#imgsearch {
+  z-index: 9;
+}
+
+#imgsearch h1 {
   font-size: 24px;
   cursor:pointer;
   text-transform: uppercase;
@@ -30,7 +34,7 @@ body {
   margin-bottom: 20px;
 }
   
-#particles-js img {
+#imgsearch img {
   width: 20%;
   height: auto;
 }

@@ -128,4 +128,5 @@ a{
 canvas { 
   display: flex; 
   vertical-align: bottom; 
+  horizontal-align: center;
 }

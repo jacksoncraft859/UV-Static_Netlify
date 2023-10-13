@@ -21,11 +21,6 @@ body {
   text-transform: uppercase;
 }
 
-#header img {
-  width: 20%;
-  height: auto;
-}
-
 #content {
   text-align: center;
   padding: 20px;
@@ -39,6 +34,20 @@ body {
   font-family: 'Open Sans', sans-serif;
   line-height: 1.5;
   margin-bottom: 20px;
+}
+#content .particles-js{ 
+  position:absolute; 
+  width: 100%; 
+  height: 100%; 
+  background-color: #000000; 
+  background-image: url("");
+  background-repeat: no-repeat; 
+  background-size: cover;
+  background-position: 50% 50%; } 
+  
+#content img {
+  width: 20%;
+  height: auto;
 }
 
 #searchbar {

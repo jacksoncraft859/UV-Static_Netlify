@@ -91,7 +91,7 @@ a{
 
 .form__input:focus {
   outline: none;
-  box-shadow: 0 0 5px rgba(255, 255, 255, 0.5);
+  box-shadow: 0 0 5px rgba(20, 255, 188);
 }
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
 #footer {

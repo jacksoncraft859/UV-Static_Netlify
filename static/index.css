@@ -1,4 +1,13 @@
 #div-1 { overflow: hidden; }
+div {
+  overflow-y: hidden;  
+
+  /* other styling */
+  border: solid 5px black;
+  border-radius: 5px;
+  height: 300px;
+  width: 300px;
+}
 #div-2 { overflow: hidden; }
 /* Custom CSS for black theme */
 body {

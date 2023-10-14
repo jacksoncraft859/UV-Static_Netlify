@@ -21,7 +21,7 @@ body {
 } 
 
 #imgsearch {
-  display: grid;
+  display: flex;
   position: absolute;
   align-items: center;
   justify-items: center;

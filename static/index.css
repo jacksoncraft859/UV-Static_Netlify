@@ -42,6 +42,7 @@ body {
 }
   
 #imgsearch img {
+  display: block;
   width: 20%;
   height: auto;
   align-self: center;

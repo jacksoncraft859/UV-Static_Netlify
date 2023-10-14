@@ -21,7 +21,7 @@ body {
 } 
 
 #imgsearch {
-  display: initial;
+  display: list-item;
   position: absolute;
   align-items: center;
   justify-items: center;

@@ -40,13 +40,6 @@ body {
   line-height: 1.5;
   margin-bottom: 20px;
 }
-  
-#imgsearch img {
-  display: block;
-  width: auto;
-  height: 70%;
-  align-self: center;
-}
 
 #searchbar {
   text-align: center;

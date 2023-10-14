@@ -44,7 +44,7 @@ body {
 #imgsearch img {
   display: block;
   width: auto;
-  height: auto;
+  height: 70%;
   align-self: center;
 }
 
